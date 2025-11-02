@@ -1,0 +1,5 @@
+# Ignore log and build files
+*.log
+/build/
+/dist/
+/nbproject/private/
